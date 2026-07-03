@@ -19,7 +19,7 @@ This Home Lab has a few key objective such as :
 - Document every steps and configuration.
 
 ## Environment 
-- OS : Ubuntu Desktop 24.04 LTS
+- OS : Ubuntu Server 26.04 LTS
 - Virtual Machine : VMWare
 - RAM : 4 GB
 - CPU : 2 Core
