@@ -6,7 +6,7 @@ This project is made to be a personal practice project to learn and understand m
 This project contains a few things such as : 
 - Installation of Ubuntu
 - User & Group management on linux
-- SSH Congiguration
+- SSH Configuration
 - Nginx Web Server
 
 ## Objectives
