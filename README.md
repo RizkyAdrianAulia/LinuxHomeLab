@@ -23,5 +23,5 @@ This Home Lab has a few key objective such as :
 - Virtual Machine : VMWare
 - RAM : 4 GB
 - CPU : 2 Core
-- Storage : 25 GB
+- Storage : 30 GB
   
