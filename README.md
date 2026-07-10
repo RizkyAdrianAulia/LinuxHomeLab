@@ -8,6 +8,7 @@ This project contains a few things such as :
 - User & Group management on linux
 - SSH Configuration
 - Nginx Web Server
+- Installing and building a Dcoker container
 
 ## Objectives
 This Home Lab has a few key objective such as : 
@@ -16,6 +17,7 @@ This Home Lab has a few key objective such as :
 - Practice Linux command and Linux administration.
 - Learn how to do a SSH into Linux server.
 - Learn to deploy a web server.
+- Learn to make a Docker container.
 - Document every steps and configuration.
 
 ## Environment 
