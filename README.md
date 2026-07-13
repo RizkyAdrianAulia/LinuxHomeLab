@@ -26,4 +26,28 @@ This Home Lab has a few key objective such as :
 - RAM : 4 GB
 - CPU : 2 Core
 - Storage : 30 GB
+
+## Architecture
+  Internet
+     |
+     |
+    SSH
+     |
+     |
+Ubuntu Server
+     |
+     |
+ ── UFW
+ ── Nginx
+ ── Docker
+    |── MySQL
+    |── phpMyAdmin
+    |── Nginx
+
+
+
+
+
+
+  
   
