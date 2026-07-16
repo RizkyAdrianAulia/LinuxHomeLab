@@ -27,4 +27,8 @@ We ran into a problem! it seems that we can't connect to the server. There might
 3. The firewall isn't activated.
 
 # Troubleshooting and solving the problems
-1. 
+1. Check the firewall status using "ufw status verbose" command. (status inactive)
+2. Check if the firewall is using the 2222 port. Use "sudo ss -tlnp | grep ssh" command. (ssh is using the 2222 port)
+3. Start the firewall and check the status.
+4. Restart the ssh service by using "systemctl restart ssh"
+5. Do an ssh again in windows command prompt by using "ssh admin1@192.168.146.5 -p 2222"
